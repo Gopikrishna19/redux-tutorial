@@ -1,0 +1,21 @@
+{
+  "name": "redux-tutorial",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gs-web-toolkit serve"
+  },
+  "author": "Gopikrishna Sathyamurthy",
+  "license": "MIT",
+  "dependencies": {
+    "@gs-utils/web-toolkit": "2.2.0",
+    "prop-types": "15.7.2",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-redux": "7.2.0",
+    "redux": "4.0.5",
+    "redux-thunk": "2.3.0",
+    "tcomb": "3.2.29"
+  }
+}
