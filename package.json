@@ -9,7 +9,7 @@
   "author": "Gopikrishna Sathyamurthy",
   "license": "MIT",
   "dependencies": {
-    "@gs-utils/web-toolkit": "2.2.0",
+    "@gs-utils/web-toolkit": "2.2.2",
     "prop-types": "15.7.2",
     "react": "16.13.0",
     "react-dom": "16.13.0",
